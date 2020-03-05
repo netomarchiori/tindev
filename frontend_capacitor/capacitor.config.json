@@ -1,0 +1,7 @@
+{
+  "appId": "br.com.rocketseat.tindev",
+  "appName": "Tindev",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "build"
+}
